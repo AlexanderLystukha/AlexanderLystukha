@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 -->
-A novice programmer and IT guy who has always had a love and curiosity for technology :P 
+A novice programmer and IT guy who has always had a love and curiosity for technology
 
-- 🔭 I’m currently working on an app to utilise my home network
+- 🔭 I’m currently working on an app to utilise my home network and starting a home lab
 - 🌱 I’m currently learning how to setup a personal home network
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Shoutout to AFC COYG
+- ⚡ Fun fact: Big Lover of AFC 🔴⚪🔥
 - 📫 How to reach me: alystukha@gmail.com
 
 
