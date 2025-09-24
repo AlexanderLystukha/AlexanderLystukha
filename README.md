@@ -14,7 +14,7 @@ A novice programmer and IT guy who has always had a love and curiosity for techn
 
 - 🌐 I’m currently working on an app to utilise my home network and starting a home lab
 - 🧠 I’m currently learning how to setup a personal home network
-- 💿 Favourite Languages/Frameworks: MERN, C#
+- 💿 Favourite Languages/Frameworks: MERN, C#, a little Bash
 - ⚡ Fun fact: Big Lover of AFC 🔴⚪🔥
 - 📫 How to reach me: alystukha@gmail.com
 
